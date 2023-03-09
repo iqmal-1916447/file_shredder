@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677907982 source:c:\users\iqmal\desktop\c junks\file_shredder\main.c
+	<stdio.h>
+	<stdlib.h>
+
